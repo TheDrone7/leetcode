@@ -4,4 +4,4 @@ My leetcode solutions (all in rust) and explanations
 
 ## Table of Contents
 
-321. [Create Maximum Number](./321.create_maximum_number/README.md)
+321. [Create Maximum Number](./321/README.md)
