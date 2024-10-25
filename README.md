@@ -4,6 +4,7 @@ My leetcode solutions (all in rust) and explanations
 
 ## Table of Contents
 
+16. [3Sum Closest](./16/README.md)
 179. [Largest Number](./179/README.md)
 189. [Rotate Array](./189/README.md)
 214. [Shortest Palindrome](./214/README.md)
